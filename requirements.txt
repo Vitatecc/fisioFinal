@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+selenium
+webdriver-manager
+python-dotenv
+pandas
+gspread
+oauth2client
